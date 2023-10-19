@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TravailAFaire_Ex1</string>
+    <string name="dateNaissance">Date de naissance</string>
+    <string name="classe">Classe</string>
+    <drawable name="add">@drawable/personadd</drawable>
+    <string-array name="classe">
+        <item>DSI2</item>
+        <item>DSI3</item>
+        <item>RSI2</item>
+        <item>RSI3</item>
+        <item>SEM2</item>
+        <item>SEM3</item>
+    </string-array>
+</resources>
